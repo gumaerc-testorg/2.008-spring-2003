@@ -8,8 +8,13 @@ description: 'This is a manual for Labs I, II, and III. These lab exercises will
   well as Mastercam, a computer-aided manufacturing software package.You will also
   learn G-code, the alphanumeric programming language used to control CNC machine
   tools.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-008-design-and-manufacturing-ii-spring-2003/6b60ed448eb9c14e8007071a00f2c26a_labs13.pdf
+file: /media/courses/2-008-design-and-manufacturing-ii-spring-2003/6b60ed448eb9c14e8007071a00f2c26a_labs13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: labs13.pdf
 uid: 6b60ed44-8eb9-c14e-8007-071a00f2c26a
