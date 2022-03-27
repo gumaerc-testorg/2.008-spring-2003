@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dd8f375a-1e52-c8e3-e673-d3d1f19265bc
 resourcetype: Document
 title: H4sol.pdf
 uid: 21f18c87-e062-fae0-27ed-d1d29649c9e4

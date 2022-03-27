@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 042b1a1d-408b-4e19-60bb-02c0e54a1d9a
 resourcetype: Document
 title: MastercamLabReference.pdf
 uid: 33dc7b57-ee47-da3b-a7e2-29e0fceac1fc
