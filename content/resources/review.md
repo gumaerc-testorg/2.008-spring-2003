@@ -5,6 +5,7 @@ file: /courses/2-008-design-and-manufacturing-ii-spring-2003/92c1dd9fd9f7faa8862
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: review.pdf
 uid: 92c1dd9f-d9f7-faa8-862b-93f51a2682e0
 ---
 Review presentation in preparation for the final exam.
-

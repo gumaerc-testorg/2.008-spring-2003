@@ -5,6 +5,7 @@ file: /courses/2-008-design-and-manufacturing-ii-spring-2003/b9f16a54913b4c6ce0f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Safety.pdf
 uid: b9f16a54-913b-4c6c-e0f1-b296184d002a
 ---
 Safety instructions and procedures.
-

@@ -5,6 +5,7 @@ file: /courses/2-008-design-and-manufacturing-ii-spring-2003/21f18c87e062fae027e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: H4sol.pdf
 uid: 21f18c87-e062-fae0-27ed-d1d29649c9e4
 ---
 Problem set solutions.
-

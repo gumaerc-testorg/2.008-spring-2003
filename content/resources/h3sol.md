@@ -5,6 +5,7 @@ file: /courses/2-008-design-and-manufacturing-ii-spring-2003/5b6ee565771b8bc3319
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: H3sol.pdf
 uid: 5b6ee565-771b-8bc3-3194-16004ae77302
 ---
 Problem set solutions.
-
