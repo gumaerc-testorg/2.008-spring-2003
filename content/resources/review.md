@@ -2,6 +2,7 @@
 content_type: resource
 description: Review presentation in preparation for the final exam.
 file: /courses/2-008-design-and-manufacturing-ii-spring-2003/92c1dd9fd9f7faa8862b93f51a2682e0_review.pdf
+file_size: 95506
 file_type: application/pdf
 learning_resource_types:
 - Exams
