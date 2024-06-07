@@ -2,6 +2,7 @@
 content_type: resource
 description: Review presentation in preparation for a quiz.
 file: /courses/2-008-design-and-manufacturing-ii-spring-2003/a228cc4c69ab8f31935f7ab5448eef4f_review2.pdf
+file_size: 1502886
 file_type: application/pdf
 learning_resource_types:
 - Exams
