@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /courses/2-008-design-and-manufacturing-ii-spring-2003/21f18c87e062fae027edd1d29649c9e4_H4sol.pdf
+file: /ol-ocw-studio-app/courses/2-008-design-and-manufacturing-ii-spring-2003/21f18c87e062fae027edd1d29649c9e4_H4sol.pdf
 file_size: 182286
 file_type: application/pdf
 learning_resource_types:
