@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Safety instructions and procedures.
-file: /ol-ocw-studio-app/courses/2-008-design-and-manufacturing-ii-spring-2003/b9f16a54913b4c6ce0f1b296184d002a_Safety.pdf
+file: /courses/2-008-design-and-manufacturing-ii-spring-2003/b9f16a54913b4c6ce0f1b296184d002a_Safety.pdf
 file_size: 17565
 file_type: application/pdf
 learning_resource_types:
