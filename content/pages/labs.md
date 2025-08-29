@@ -3,7 +3,7 @@ content_type: page
 description: This section contains lab exercises that provide introduction to process
   planning, the tools required, and the application of CAD/CAM.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: f024f6fe-0bda-1f8b-7fd8-21e3446f0d65
